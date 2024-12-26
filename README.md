@@ -7,8 +7,6 @@ I'm a Software Engineering student passionate about web development, cybersecuri
 - Collaborating with peers on exciting projects.
 - Gaining a deeper knowledge of open-source contributions.
 
-![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-bryanpyl/blob/profile-upload/Profile_pic.png)  <!-- Add your image link here -->
-
 [Check out my profile](https://github.com/bryanpyl)
 
 
