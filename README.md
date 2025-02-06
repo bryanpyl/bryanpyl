@@ -1,11 +1,22 @@
-# Hello there, I'm Bryan Phang Yik Loong!
+# Hello there, I'm Bryan Phang!👋
 
-I'm a Software Engineering student passionate about web development, cybersecurity and software quality assurance.
+![Bryan's Stats](https://github-readme-stats.vercel.app/api?username=bryanpyl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-### What I Expect from This Course
-- Learning advanced development practices.
-- Collaborating with peers on exciting projects.
-- Gaining a deeper knowledge of open-source contributions.
+## 🚀 About Me
+
+- 🔭 Pursue a Computer Science degree, majoring in Software Engineering.
+- ⚡ Photography, social, gym etc. Work hard, Play hard!!
+- ✍️ Interested in web development, fintech, cybersecurity and software testing.
+
+
+## 🌱 Currently Exploring
+
+- Full Stack Web Development (React, Django, MongoDB, Laravel, Bootstrap)
+- Cybersecurity (OWASP)
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
 
 [Check out my profile](https://github.com/bryanpyl)
 
